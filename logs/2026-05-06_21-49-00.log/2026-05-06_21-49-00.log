@@ -1,0 +1,11 @@
+[2026-05-06 21:49:06,602] 24 root - INFO - Entered the data ingestion method or component
+[2026-05-06 21:49:06,605] 27 root - INFO - extracted the data as dataframe
+[2026-05-06 21:49:06,608] 30 root - INFO - Train test split initiated
+[2026-05-06 21:49:06,614] 34 root - INFO - Ingestion of the data is completed
+[2026-05-06 21:49:06,616] 62 root - INFO - Read train and test data completed
+[2026-05-06 21:49:06,616] 64 root - INFO - Obtaining preprocessor object
+[2026-05-06 21:49:06,616] 44 root - INFO - Categorical and numeriacal columns completed
+[2026-05-06 21:49:06,617] 76 root - INFO - Applying preprocessing object on training and testing dataframe
+[2026-05-06 21:49:06,629] 84 root - INFO - Saved preprocessing object
+[2026-05-06 21:49:06,629] 14 root - INFO - Directory created for the file path
+[2026-05-06 21:49:06,631] 16 root - INFO - Object is pickled successfully
