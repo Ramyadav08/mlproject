@@ -39,3 +39,13 @@ def evaluate_models(X_train,y_train,X_test,y_test,models,param):
     except Exception as e:
         logging.info("Error occured in evaluating models")
         raise CustomException(e,sys)
+    
+    
+def load_object(file_path):
+    try:
+        obj=pd.read_pickle(file_path)
+        logging.info("Object loaded successfully")
+        return obj
+    except Exception as e:
+        logging.info("Error occured in loading object")
+        raise CustomException(e,sys)
