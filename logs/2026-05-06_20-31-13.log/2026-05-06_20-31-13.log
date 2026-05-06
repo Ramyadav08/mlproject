@@ -1,0 +1,8 @@
+[2026-05-06 20:31:14,897] 23 root - INFO - Entered the data ingestion method or component
+[2026-05-06 20:31:14,902] 26 root - INFO - extracted the data as dataframe
+[2026-05-06 20:31:14,905] 29 root - INFO - Train test split initiated
+[2026-05-06 20:31:14,910] 33 root - INFO - Ingestion of the data is completed
+[2026-05-06 20:31:14,912] 62 root - INFO - Read train and test data completed
+[2026-05-06 20:31:14,912] 64 root - INFO - Obtaining preprocessor object
+[2026-05-06 20:31:14,912] 44 root - INFO - Categorical and numeriacal columns completed
+[2026-05-06 20:31:14,912] 97 root - INFO - Error occured in data transformation component
